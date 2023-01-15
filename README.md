@@ -29,3 +29,14 @@ This image may take a few minutes to refresh.
 
 * for PXT/microbit
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+
+
+## INSTRUCTIONS FOR MICROBIT
+
+This is the program for Microbit which imitates decryption with the affine cipher (for b=2), but randomly shows letters L,R or S.
+
+ A: selecting the letter you want to decript (for example let's say you choose letter F)
+ 
+ B: selecting the key for decryption
+ 
+ A plus B (at the sime time): chooses letter L, R or S randomly (for example let's say L) and shows: F -> L 
